@@ -5,7 +5,7 @@
 .speech
 {
     font-family: 'Times New Roman', Times, serif;
-    font-size: small;
+    font-size:medium;
     color: black;
 }
 .direction
@@ -13,18 +13,23 @@
     background-color: bisque;
     font-family:cursive;
     font-size: smaller;
+    color: black;
+}
+.name
+{
+    font-style:italic;
+    font-size: large;
+    color: black;
 }
 .MARIANE
 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color:rgb(62, 75, 255);
-    font-style:italic;
+    color:rgb(62, 75, 255);  
 }
 .ORGON
 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(255, 11, 223);
-    font-style:italic;
 }
 .direction:hover {
     background-color:aqua;
