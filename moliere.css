@@ -31,3 +31,10 @@
     color:red
     
     }
+table, th, td {
+        border: 1px solid black;
+        color: coral;
+        background-color: azure;
+        text-align: center;
+        margin:20px;
+      }
