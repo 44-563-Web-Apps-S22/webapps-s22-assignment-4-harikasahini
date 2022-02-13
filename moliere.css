@@ -18,18 +18,16 @@
 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color:rgb(62, 75, 255);
+    font-style:italic;
 }
 .ORGON
 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(255, 11, 223);
+    font-style:italic;
 }
 .direction:hover {
     background-color:aqua;
     color:red
     
     }
-.ORGON
-{
-    font-style:italic;
-}
