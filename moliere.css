@@ -1,0 +1,35 @@
+.scene
+{
+    color: rgb(47, 243, 21);
+}
+.speech
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    color: black;
+}
+.direction
+{
+    background-color: bisque;
+    font-family:cursive;
+    font-size: smaller;
+}
+.MARIANE
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(62, 75, 255);
+}
+.ORGON
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(255, 11, 223);
+}
+.direction:hover {
+    background-color:aqua;
+    color:red
+    
+    }
+.ORGON
+{
+    font-style:italic;
+}
