@@ -42,7 +42,6 @@ table,th,td {
         color:rgb(233, 1, 1);
         padding: 10px;
         margin: 20px;
-
     }
 tr:nth-child(even) {
         background-color: #8F9AA5;
